@@ -2,6 +2,7 @@
 - 🤖 I’m interested in Artificail Intelligence and Robotics
 - 🖥 I’m currently pursuing a Master's Degree in Artificial Intelligence and Machine learning
 - 📫 My email address is traoredjeneba0711@gmail.com
+- 😝 Languages : English, French, German, Bambara
 - ⚡ Fun fact: Gym lover 😍 
 
 <!---
