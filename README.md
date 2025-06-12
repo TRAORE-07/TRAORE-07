@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Djeneba TRAORE alias @TRAORE-07
 - 🤖 I’m interested in Artificail Intelligence, Robotics, and IOT.
-- 🖥 I’m currently pursuing a Master's Degree in Artificial Intelligence and Machine learning
+- 🖥 I have a Bachelor's Degree in Software Engineering and Information Systems,
+- 🖥 And a Master's Degree in Artificial Intelligence and Machine learning.
 - 😝 Languages : English, French, German, Bambara
 - ⚡ Fun fact: Gym lover 😍 
 
