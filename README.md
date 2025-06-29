@@ -3,7 +3,7 @@
 - 🖥 I have a Bachelor's Degree in Software Engineering and Information Systems,
 - 🖥 And a Master's Degree in Artificial Intelligence and Machine learning.
 - 😝 Languages : English, French, German, Bambara
-- ⚡ Fun fact: Gym lover 😍 
+- ⚡ Fun fact: Gym & Sky lover 😍 
 
 <!---
 TRAORE-07/TRAORE-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
