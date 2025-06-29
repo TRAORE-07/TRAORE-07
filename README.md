@@ -1,7 +1,7 @@
 - Hi, I’m **Djeneba TRAORE** alias @TRAORE-07
 - Interested in Artificail Intelligence, Robotics, and IOT.
-- Have a Bachelor's Degree in **Software Engineering and Information Systems**,
-And a Master's Degree in **Artificial Intelligence and Machine learning**.
+- Have a Bachelor's Degree in **Software Engineering and Information Systems**;
+- And a Master's Degree in **Artificial Intelligence and Machine learning**.
 - Speak : English, French, German, Bambara
 
 - Fun fact: Gym & Sky lover 😍 
