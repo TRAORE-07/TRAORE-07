@@ -1,12 +1,23 @@
-- Hi, I’m **Djeneba TRAORE** alias @TRAORE-07
-- Interested in Artificail Intelligence, Robotics, and IOT.
-- Have a Bachelor's Degree in **Software Engineering and Information Systems**;
-- And a Master's Degree in **Artificial Intelligence and Machine learning**.
-- Speak : English, French, German, Bambara
+# 👋 Hi there, I'm **Djeneba TRAORE** (aka [@TRAORE-07](https://github.com/TRAORE-07))
 
-- Fun fact: Gym & Sky lover 😍 
+🎯 Passionate about:
+- 🤖 Artificial Intelligence  
+- 🤖 Robotics  
+- 🌐 Internet of Things (IoT)
 
-<!---
-TRAORE-07/TRAORE-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Academic Background:
+- 🎓 Bachelor's in **Software Engineering and Information Systems**  
+- 🎓 Master's in **Artificial Intelligence and Machine Learning**
+
+🗣️ Languages I speak:
+- 🇬🇧 English
+- 🇫🇷 French
+- 🇩🇪 German
+- 🇲🇱 Bambara
+
+💡 Fun fact:
+> I'm a **gym & sky lover** 🌤️🏋️‍♀️😍
+
+---
+
+🌱 Currently exploring new AI projects, working on mobile apps, and sharing tech with the world.
