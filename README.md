@@ -16,7 +16,7 @@
 - 🇲🇱 Bambara
 
 💡 Fun fact:
-> I'm a **anime, gym & sky lover** 🌤️🏋️‍♀️😍
+> I'm an **anime, gym & sky lover** 🌤️🏋️‍♀️😍
 
 ---
 
