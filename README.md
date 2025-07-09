@@ -6,8 +6,8 @@
 - 🌐 Internet of Things (IoT)
 
 🎓 Academic Background:
-- 🎓 Bachelor's in **Software Engineering and Information Systems**  
-- 🎓 Master's in **Artificial Intelligence and Machine Learning**
+- 🎓 Bachelor's in **Software Engineering and Information Systems** 
+- 🎓 Master's in **Artificial Intelligence and Machine Learning**: FIRST DIVISION WITH DISTINCTION.
 
 🗣️ Languages I speak:
 - 🇬🇧 English
@@ -16,8 +16,8 @@
 - 🇲🇱 Bambara
 
 💡 Fun fact:
-> I'm a **gym & sky lover** 🌤️🏋️‍♀️😍
+> I'm a **anime, gym & sky lover** 🌤️🏋️‍♀️😍
 
 ---
 
-🌱 Currently exploring new AI projects, working on mobile apps, and sharing tech with the world.
+🌱 Currently exploring new AI projects (like **Image Recognition**, **LLMs** and many more), working on cross-platform apps, and sharing tech with the world.
