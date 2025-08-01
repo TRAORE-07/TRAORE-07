@@ -6,9 +6,13 @@
 - 🤖 Robotics  
 - 📡 Internet of Things (IoT)  
 
+---
+
 🎓 **Academic Background**  
 - 🎓 Bachelor's in **Software Engineering & Information Systems**  
 - 🎓 Master's in **Artificial Intelligence & Machine Learning** — *First Division with Distinction*  
+
+---
 
 🌍 **Languages**  
 
