@@ -11,10 +11,10 @@
 - 🎓 Master's in **Artificial Intelligence and Machine Learning**: FIRST DIVISION WITH DISTINCTION.
 
 🗣️ Languages I speak:
-- 🇬🇧 English
-- 🇫🇷 French
-- 🇩🇪 German
-- 🇲🇱 Bambara
+- 🇲🇱 Bambara (Native Language)
+- 🇫🇷 French (Native Language)
+- 🇬🇧 English (Full Professional Proficiency)
+- 🇩🇪 German (Elementary Proficiency)
 
 💡 Fun fact:
 > I'm an **anime, gym & sky lover** 🌤️🏋️‍♀️😍
