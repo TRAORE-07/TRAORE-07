@@ -1,24 +1,31 @@
-# 👋 Hello Helloooo, I'm **Djeneba TRAORE** (aka [@TRAORE-07](https://github.com/TRAORE-07))
+# 👋 Hello Helloooo, I'm **Djeneba TRAORE** (aka [@TRAORE-07](https://github.com/TRAORE-07))  
 
-🎯 Passionate about:
-- 🤖 Artificial Intelligence
-- 🌐 Data Processing
-- 🤖 Robotics
-- 🌐 Internet of Things (IoT)
+💖 **Passionate about**  
+- 🧠 Artificial Intelligence  
+- 📊 Data Processing  
+- 🤖 Robotics  
+- 📡 Internet of Things (IoT)  
 
-🎓 Academic Background:
-- 🎓 Bachelor's in **Software Engineering and Information Systems** 
-- 🎓 Master's in **Artificial Intelligence and Machine Learning**: FIRST DIVISION WITH DISTINCTION.
+🎓 **Academic Background**  
+- 🎓 Bachelor's in **Software Engineering & Information Systems**  
+- 🎓 Master's in **Artificial Intelligence & Machine Learning** — *First Division with Distinction*  
 
-🗣️ Languages I speak:
-- 🇲🇱 Bambara (Native Language)
-- 🇫🇷 French (Native Language)
-- 🇬🇧 English (Full Professional Proficiency)
-- 🇩🇪 German (Elementary Proficiency)
+🌍 **Languages**  
 
-💡 Fun fact:
-> I'm an **anime, gym & sky lover** 🌤️🏋️‍♀️😍
+| Language | Proficiency |
+|----------|-------------|
+| 🇲🇱 **Bambara** | Native |
+| 🇫🇷 **French** | Native |
+| 🇬🇧 **English** | Full Professional |
+| 🇩🇪 **German** | Elementary |
+
+💡 **Fun Fact**  
+> I'm an **anime, gym & sky lover** 🌌🏋️‍♀️✨  
 
 ---
 
-🌱 Currently exploring new AI projects (like **Image Recognition**, **LLMs** and many more), working on cross-platform apps, and sharing tech with the world.
+🌱 **Currently Exploring**  
+- 🖼️ Image Recognition  
+- 🗨️ Large Language Models (LLMs)  
+- 📱 Cross-platform App Development  
+- 🚀 Sharing tech knowledge with the world  
