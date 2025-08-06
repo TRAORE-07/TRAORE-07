@@ -15,13 +15,12 @@
 ---
 
 🌍 **Languages**  
-
-| Language | Proficiency |
-|----------|-------------|
-| 🇲🇱 **Bambara** | Native |
-| 🇫🇷 **French** | Native |
-| 🇬🇧 **English** | Full Professional |
-| 🇩🇪 **German** | Elementary |
+- 🇲🇱 **Bambara**: Native
+- 🇫🇷 **French**: Native
+- 🇬🇧 **English**: Full Professional
+- 🇩🇪 **German**: Elementary
+  
+---
 
 💡 **Fun Fact**  
 > I'm an **anime, gym & sky lover** 🌌🏋️‍♀️✨  
