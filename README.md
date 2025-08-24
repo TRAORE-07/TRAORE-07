@@ -1,5 +1,5 @@
 # 👋 Hello, Bonjour, Halooo, I'm **Djeneba TRAORE** (aka [@TRAORE-07](https://github.com/TRAORE-07))  
-Machine Learning Engineer || Data Scientist || Software Developer
+## Machine Learning Engineer || Data Scientist || Software Developer
 
 💖 **Passionate about**  
 - 🧠 Artificial Intelligence  
