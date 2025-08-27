@@ -29,6 +29,7 @@
 ---
 
 🌱 **Currently Exploring**  
+- 📡 Smart IoT System
 - 🖼️ Image Recognition  
 - 🗨️ Large Language Models (LLMs)  
 - 📱 Cross-platform App Development  
