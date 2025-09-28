@@ -24,13 +24,13 @@
 ---
 
 💡 **Fun Fact**  
-> I'm an **anime, gym & sky lover** 🌌🏋️‍♀️✨  
+> I'm an **anime, books, gym & sky lover** 🌌🏋️‍♀️✨  
 
 ---
 
-🌱 **Currently Exploring**  
+🌱 **Currently Exploring**
+- 🗨️ Large Language Models (LLMs)
 - 📡 Smart IoT System
 - 🖼️ Image Recognition  
-- 🗨️ Large Language Models (LLMs)  
 - 📱 Cross-platform App Development  
 - 🚀 Sharing tech knowledge with the world  
