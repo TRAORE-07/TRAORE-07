@@ -9,9 +9,7 @@
 
 ---
 
-🎓 **Academic Background**  
-- 🎓 Bachelor's in **Software Engineering & Information Systems** - *With Honors*
-- 🎓 Master's in **Artificial Intelligence & Machine Learning** — *First Division with Distinction*  
+🎓 Master's in **Artificial Intelligence & Machine Learning** — *First Division with Distinction*  
 
 ---
 
