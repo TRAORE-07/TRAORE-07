@@ -1,11 +1,11 @@
 # 👋 Hello, Bonjour, Halooo, I'm **Djeneba TRAORE** ([@TRAORE-07](https://github.com/TRAORE-07))  
-## Machine Learning Engineer || Data Scientist || Software Developer
+## AI/ML Engineer || Data Scientist || Software Developer
 
-💖 **Passionate about**  
-- 🧠 Artificial Intelligence  
-- 📊 Data Processing  
-- 🤖 Robotics  
-- 📡 Internet of Things (IoT)  
+💖 **Passionate about**
+- 🧠 Artificial Intelligence
+- 📊 Data Processing
+- 🤖 Robotic
+- 📡 Internet of Things (IoT)
 
 ---
 
