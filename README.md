@@ -13,14 +13,6 @@
 
 ---
 
-🌍 **Languages**  
-- 🇲🇱 **Bambara**: Native
-- 🇫🇷 **French**: Native
-- 🇬🇧 **English**: Full Professional
-- 🇩🇪 **German**: Elementary
-  
----
-
 💡 **Fun Fact**  
 > I'm an **anime, books, gym & sky lover** 🌌🏋️‍♀️✨  
 
