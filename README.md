@@ -23,4 +23,4 @@
 - 📡 Smart IoT System
 - 🖼️ Image Recognition  
 - 📱 Cross-platform App Development  
-- 🚀 Sharing tech knowledge with the world  
+- 🚀 Sharing tech knowledge
