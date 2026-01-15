@@ -1,6 +1,6 @@
 # 👋 Hello, Bonjour, Halooo, I'm **DT** ([@TRAORE-07](https://github.com/TRAORE-07))  
 ## AI/ML Engineer || Data Scientist || Software Developer
-## Job Title: Head of ICT Control and Geolocation
+## Position: Head of ICT Control and Geolocation
 
 💖 **Passionate about**
 - 🧠 Artificial Intelligence
