@@ -3,10 +3,10 @@
 ## Position: Head of ICT Control and Geolocation
 
 💖 **Passionate about**
+- 📡 Internet of Things (IoT)
 - 🧠 Artificial Intelligence
 - 📊 Data Processing
 - 🤖 Robotic
-- 📡 Internet of Things (IoT)
 
 ---
 
