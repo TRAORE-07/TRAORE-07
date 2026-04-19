@@ -25,3 +25,11 @@
 - 🖼️ Image Recognition  
 - 📱 Cross-platform App Development  
 - 🚀 Sharing tech knowledge
+
+---
+
+🗨️ **Languaes**
+- French
+- English
+- German
+- Bambara
